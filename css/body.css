@@ -1,0 +1,22 @@
+/*KIRK JOHN L. SIERAS BSIT-2C/T2O5*/
+body{
+    background-image: url("../images/body/body1.jpg");
+    background-size: cover;
+}
+
+p, figcaption, li a{
+    background-color: rgba(13, 36, 15, 0.568);
+    color: hsl(128, 96%, 47%);
+    border: 2px solid hsl(128, 96%, 47%);
+    font-family: verdana;
+    display: inline-block;
+}
+
+.logo{
+    border: 2px solid hsl(128, 96%, 47%);
+    position: fixed;
+    height: 68px;
+    border-radius: 50%;
+    top:5%;
+    left:5%;
+}

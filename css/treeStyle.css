@@ -1,0 +1,91 @@
+/*KIRK JOHN L. SIERAS BSIT-2C/T2O5*/
+.tree{
+    width: 1170px;
+    height: 670px;
+    background-image: url("../images/tree/tree1.jpg");
+    position: relative;
+    top: 3cm;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+}
+
+.mama, .papa{
+    width: 10%;
+    height: auto;
+    border-radius: 50%;
+    border: 5px solid rgb(0, 255, 34);
+    position: absolute;
+    top: 2cm;
+    
+}
+
+.papa{
+    right: 16cm;
+}
+
+.mama{
+    right: 11cm;
+}
+
+.magulang,.ako,.manghud{
+    width: 10%;
+    height: auto;
+    border-radius: 50%;
+    border: 5px solid rgb(0, 255, 34);
+    position: absolute;
+    bottom: 6cm;
+}
+p{
+    margin: 0 !important;
+}
+
+.magulang{
+    left: 7cm;
+}
+
+.ako{
+    right: 14cm;
+}
+
+.manghud{
+    right: 7cm;
+}
+
+p {
+    display: inline;
+    text-align: center;
+    font-size: 13px;
+    font-family: Arial;
+    position: absolute;
+    padding: 5px;
+    border-radius: 10%;
+}
+
+.mamaName, .papaName{
+    top: 5.5cm;
+}
+
+.mamaName{
+    right: 11.1cm;
+}
+
+.papaName{
+    left: 11.3cm;
+}
+
+.magulangName, .akoName, .manghudName{
+    bottom: 4.8cm;
+}
+
+.magulangName{
+    left: 6.2cm;
+}
+
+.akoName{
+    right: 13.8cm;
+}
+
+.manghudName{
+    right: 6.4cm;
+}

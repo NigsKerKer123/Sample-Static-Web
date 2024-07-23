@@ -1,0 +1,29 @@
+/*KIRK JOHN L. SIERAS BSIT-2C/T2O5*/
+nav ul {
+    list-style-type: none;
+    position: fixed;
+    right: 5%;
+    top: 3%;
+  }
+
+  nav{
+    margin-bottom: 3cm;
+  }
+
+  nav li {
+    display: inline-block;
+    position: relative;
+  }
+  
+  li a {
+    display: block;
+    padding: 20px;
+    margin-right: 10px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #00ff0d88;
+    color: black;
+    border: 2px solid black;
+  }
